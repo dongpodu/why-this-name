@@ -1,0 +1,2 @@
+WebFlux 模块的名称是 spring-webflux，名称中的 Flux 来源于 Reactor 中的类 Flux。Spring webflux 有一个全新的非堵塞的函数式 Reactive Web 框架，
+可以用来构建异步的、非堵塞的、事件驱动的服务，在伸缩性方面表现非常好。
